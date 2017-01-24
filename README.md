@@ -1,5 +1,6 @@
 # Page Metadata Parser
-A Javascript library for parsing metadata in web pages.
+A Javascript library for parsing metadata in web pages.  
+This mobile fork has a webpack config specfically configured for embedding in a WKwebView. It uses babel-transform instead of babel-pollyfill. 
 
 [![CircleCI](https://circleci.com/gh/mozilla/page-metadata-parser.svg?style=svg)](https://circleci.com/gh/mozilla/page-metadata-parser)
 
